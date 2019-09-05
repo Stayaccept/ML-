@@ -5,3 +5,4 @@ ML-algorithm-implementation
 - KNN
 - Naive Bayes
 - Logistic regression
+- PCA
