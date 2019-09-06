@@ -6,3 +6,4 @@ ML-algorithm-implementation
 - Naive Bayes
 - Logistic regression
 - PCA
+- Kernel PCA
