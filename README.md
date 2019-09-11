@@ -7,3 +7,4 @@ ML-algorithm-implementation
 - Logistic regression
 - PCA
 - Kernel PCA
+- K-means
