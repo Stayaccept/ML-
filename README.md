@@ -8,3 +8,4 @@ ML-algorithm-implementation
 - PCA
 - Kernel PCA
 - K-means
+- LDA
