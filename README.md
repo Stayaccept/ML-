@@ -9,3 +9,4 @@ ML-algorithm-implementation
 - Kernel PCA
 - K-means
 - LDA
+- SVM
